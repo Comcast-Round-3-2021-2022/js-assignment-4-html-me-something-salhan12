@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+body{
+    
+    background-color: rgb(231, 213, 230);
+}
+#mainHeading{
+
+    color: red;
+} 
+.funParagraph{
+    color: green;
+}
