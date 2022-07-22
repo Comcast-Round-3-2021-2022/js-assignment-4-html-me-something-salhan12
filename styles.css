@@ -6,6 +6,9 @@ body{
 #mainHeading{
 
     color: red;
+    font-size: xx-large;
+    font-family: Brush Script MT;
+    
 } 
 .funParagraph{
     color: green;
